@@ -90,5 +90,5 @@ Este projeto é ideal para:
 
 ## 🧑‍💻 Autor
 
-Desenvolvido por [Seu Nome Aqui].  
-Inspirado por engines clássicas de jogos dos anos 90.
+Desenvolvido por Esdras de Araujo.  
+Inspirado pelo projeto do youtuber https://www.youtube.com/@GrandeFiasco.
